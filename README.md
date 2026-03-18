@@ -161,7 +161,7 @@ http://localhost:3000
 
 # 📊 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=your-username/ziranbianzhengfa\&type=Date)](https://star-history.com/#your-username/ziranbianzhengfa&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=k-66666/ziranbianzhengfa\&type=Date)](https://star-history.com/#your-username/ziranbianzhengfa&Date)
 
 ---
 
