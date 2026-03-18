@@ -1,7 +1,7 @@
-<h1 align="center">自然辩证法学习网站</h1>
+<h1 align="center">华水研究生自然辩证法/中特刷题网站</h1>
 
 <p align="center">
-一个结构化的自然辩证法课程学习平台
+效率高
 </p>
 
 <p align="center">
